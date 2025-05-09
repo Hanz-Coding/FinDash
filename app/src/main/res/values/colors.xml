@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#FFFFFFFF</color>
+    <color name="card_background">#FFF8F9FD</color>
+    <color name="primary_text">#FF1A1F36</color>
+    <color name="secondary_text">#FF64748B</color>
+    <color name="accent">#FFFCD34D</color>
+    <color name="success">#FF059669</color>
+    <color name="error">#FFDC2626</color>
 </resources>

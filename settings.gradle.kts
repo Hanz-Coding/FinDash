@@ -21,4 +21,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "FinDash"
 include(":app")
- 
+include(":core-ui")
+include(":core-data")
+include(":core-database")
+include(":feature:home")
+include(":feature:exchange")
+include(":feature:setting")
+include(":feature:gold")
